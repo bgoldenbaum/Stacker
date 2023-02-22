@@ -1,0 +1,3 @@
+.stk-add-new-button {
+  border-radius: 0;
+}
